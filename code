@@ -113,3 +113,28 @@ System.out.println("TOTAL NUMBER OF CARS man :"+r);
 } 
 
 } 
+ 
+
+import java.util.Scanner; 
+
+public class ttr { 
+
+public static void main(String[] args) { 
+
+  Scanner  nab =new Scanner(System.in); 
+
+  System.out.println("1st integer:"); 
+
+  int x= nab.nextInt(); 
+
+  System.out.println("2nd integer:"); 
+
+  int y=nab.nextInt(); 
+
+  int z= x+y; 
+  System.out.println("RESULT IS :"+z); 
+  
+  
+  
+} 
+}
